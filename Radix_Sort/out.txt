@@ -1,0 +1,146 @@
+STACK: 
+TOP --> (900 , 800)--> (800 , 700)--> (700 , 635)--> (635 , 297)--> (297 , 289)--> (289 , 274)--> (274 , 569)--> (569 , 754)--> (754 , 443)--> (443 , 325)--> (325 , 159)--> (159 , 77)--> (77 , 616)--> (616 , 35)--> (35 , 84)--> (84 , 313)--> (313 , 32)--> (32 , 91)--> (91 , 13)--> (13 , 431)--> (431 , 122)--> (122 , 59)--> (59 , 7)--> (7 , 935)--> (935 , 76)--> (76 , 560)--> (560 , 314)--> (314 , 41)--> (41 , 88)--> (88, NULL)
+
+
+ADDTAIL QUEUE Process: 
+
+
+ENTIRE Queue: 
+Queue w/ index: 0
+HEAD --> (dummy , 900)--> (900 , 800)--> (800 , 700)--> (700 , 560)--> (560 ,  NULL)
+
+Queue w/ index: 1
+HEAD --> (dummy , 91)--> (91 , 431)--> (431 , 41)--> (41 ,  NULL)
+
+Queue w/ index: 2
+HEAD --> (dummy , 32)--> (32 , 122)--> (122 ,  NULL)
+
+Queue w/ index: 3
+HEAD --> (dummy , 443)--> (443 , 313)--> (313 , 13)--> (13 ,  NULL)
+
+Queue w/ index: 4
+HEAD --> (dummy , 274)--> (274 , 754)--> (754 , 84)--> (84 , 314)--> (314 ,  NULL)
+
+Queue w/ index: 5
+HEAD --> (dummy , 635)--> (635 , 325)--> (325 , 35)--> (35 , 935)--> (935 ,  NULL)
+
+Queue w/ index: 6
+HEAD --> (dummy , 616)--> (616 , 76)--> (76 ,  NULL)
+
+Queue w/ index: 7
+HEAD --> (dummy , 297)--> (297 , 77)--> (77 , 7)--> (7 ,  NULL)
+
+Queue w/ index: 8
+HEAD --> (dummy , 88)--> (88 ,  NULL)
+
+Queue w/ index: 9
+HEAD --> (dummy , 289)--> (289 , 569)--> (569 , 159)--> (159 , 59)--> (59 ,  NULL)
+
+
+
+
+Previous: 
+ENTIRE Queue: 
+Queue w/ index: 0
+HEAD --> (dummy , 900)--> (900 , 800)--> (800 , 700)--> (700 , 560)--> (560 ,  NULL)
+
+Queue w/ index: 1
+HEAD --> (dummy , 91)--> (91 , 431)--> (431 , 41)--> (41 ,  NULL)
+
+Queue w/ index: 2
+HEAD --> (dummy , 32)--> (32 , 122)--> (122 ,  NULL)
+
+Queue w/ index: 3
+HEAD --> (dummy , 443)--> (443 , 313)--> (313 , 13)--> (13 ,  NULL)
+
+Queue w/ index: 4
+HEAD --> (dummy , 274)--> (274 , 754)--> (754 , 84)--> (84 , 314)--> (314 ,  NULL)
+
+Queue w/ index: 5
+HEAD --> (dummy , 635)--> (635 , 325)--> (325 , 35)--> (35 , 935)--> (935 ,  NULL)
+
+Queue w/ index: 6
+HEAD --> (dummy , 616)--> (616 , 76)--> (76 ,  NULL)
+
+Queue w/ index: 7
+HEAD --> (dummy , 297)--> (297 , 77)--> (77 , 7)--> (7 ,  NULL)
+
+Queue w/ index: 8
+HEAD --> (dummy , 88)--> (88 ,  NULL)
+
+Queue w/ index: 9
+HEAD --> (dummy , 289)--> (289 , 569)--> (569 , 159)--> (159 , 59)--> (59 ,  NULL)
+
+
+
+
+Previous: 
+ENTIRE Queue: 
+Queue w/ index: 0
+HEAD --> (dummy , 900)--> (900 , 800)--> (800 , 700)--> (700 , 7)--> (7 ,  NULL)
+
+Queue w/ index: 1
+HEAD --> (dummy , 313)--> (313 , 13)--> (13 , 314)--> (314 , 616)--> (616 ,  NULL)
+
+Queue w/ index: 2
+HEAD --> (dummy , 122)--> (122 , 325)--> (325 ,  NULL)
+
+Queue w/ index: 3
+HEAD --> (dummy , 431)--> (431 , 32)--> (32 , 635)--> (635 , 35)--> (35 , 935)--> (935 ,  NULL)
+
+Queue w/ index: 4
+HEAD --> (dummy , 41)--> (41 , 443)--> (443 ,  NULL)
+
+Queue w/ index: 5
+HEAD --> (dummy , 754)--> (754 , 159)--> (159 , 59)--> (59 ,  NULL)
+
+Queue w/ index: 6
+HEAD --> (dummy , 560)--> (560 , 569)--> (569 ,  NULL)
+
+Queue w/ index: 7
+HEAD --> (dummy , 274)--> (274 , 76)--> (76 , 77)--> (77 ,  NULL)
+
+Queue w/ index: 8
+HEAD --> (dummy , 84)--> (84 , 88)--> (88 , 289)--> (289 ,  NULL)
+
+Queue w/ index: 9
+HEAD --> (dummy , 91)--> (91 , 297)--> (297 ,  NULL)
+
+
+
+
+Current: 
+ENTIRE Queue: 
+Queue w/ index: 0
+HEAD --> (dummy , 7)--> (7 , 13)--> (13 , 32)--> (32 , 35)--> (35 , 41)--> (41 , 59)--> (59 , 76)--> (76 , 77)--> (77 , 84)--> (84 , 88)--> (88 , 91)--> (91 ,  NULL)
+
+Queue w/ index: 1
+HEAD --> (dummy , 122)--> (122 , 159)--> (159 ,  NULL)
+
+Queue w/ index: 2
+HEAD --> (dummy , 274)--> (274 , 289)--> (289 , 297)--> (297 ,  NULL)
+
+Queue w/ index: 3
+HEAD --> (dummy , 313)--> (313 , 314)--> (314 , 325)--> (325 ,  NULL)
+
+Queue w/ index: 4
+HEAD --> (dummy , 431)--> (431 , 443)--> (443 ,  NULL)
+
+Queue w/ index: 5
+HEAD --> (dummy , 560)--> (560 , 569)--> (569 ,  NULL)
+
+Queue w/ index: 6
+HEAD --> (dummy , 616)--> (616 , 635)--> (635 ,  NULL)
+
+Queue w/ index: 7
+HEAD --> (dummy , 700)--> (700 , 754)--> (754 ,  NULL)
+
+Queue w/ index: 8
+HEAD --> (dummy , 800)--> (800 ,  NULL)
+
+Queue w/ index: 9
+HEAD --> (dummy , 900)--> (900 , 935)--> (935 ,  NULL)
+
+
+
+
